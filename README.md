@@ -9,6 +9,7 @@ The goal is not to redocument the official product. The goal is to capture the l
 | Recipe | What it does |
 | --- | --- |
 | [`session-end-hook/`](./session-end-hook/) | Saves a readable markdown transcript of every Claude Code session, one file per calendar date, automatically when the session ends. |
+| [`git-config-override/`](./git-config-override/) | Explains the default "never update git config" safety rule and three ways to selectively let Claude update your identity when you want it to. |
 
 More recipes will be added as I pick up new patterns.
 
